@@ -8,5 +8,6 @@
 </head>
 <body>
 <div id="filmsSection"></div>
+<script src="reqFilms.js"></script>
 </body>
 </html>
